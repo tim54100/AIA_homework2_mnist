@@ -1,2 +1,4 @@
 # AIA_homework2_mnist
-use mnist datasets to practice simple deep learning
+Use mnist datasets to practice simple CNN.
+
+The details of code are all in main.ipynb, but the comments are traditional chinese.
